@@ -1,9 +1,10 @@
 # Frontend Mentor - Recipe page
 
-![Design preview for the Recipe page coding challenge](./design/desktop-preview.jpg)
+![image](https://github.com/emilly2005/recipe-page-main/assets/157078814/c366df2f-df22-4ef5-97fc-d41d8a1d0784)
+
 
 
 ## Building your project
-
+Meu projeto de pagina de recita
 
 
